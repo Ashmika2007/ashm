@@ -18,4 +18,5 @@ Click "Pay" to complete your purchase and receive a confirmation.
 
 
 Acknowledgements
+
 Special thanks to Valuka Ma'am for guidance and support throughout the development of this project.
