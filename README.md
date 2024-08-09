@@ -1,6 +1,4 @@
-This project is a web application designed for ordering groceries online.
-It features sections for Fruits, Vegetables, Dairy Produce, Meat and Seafood, and Baking and Cooking Ingredients. 
-Users can add items to their cart, view an order summary, and complete their purchase.
+This project is a web application designed for ordering groceries online.It features sections for Fruits, Vegetables, Dairy Produce, Meat and Seafood, and Baking and Cooking Ingredients. Users can add items to their cart, view an order summary, and complete their purchase.
 
 features:
 
